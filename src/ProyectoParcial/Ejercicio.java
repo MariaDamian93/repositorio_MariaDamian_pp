@@ -21,6 +21,7 @@ public class Ejercicio {
         System.out.println("El sueldo bruto es:"+sueldobruto);
         System.out.println("El descuento es:"+descuento);
         System.out.println("El sueldo neto es:"+sueldoneto);
+        //falta agregar
      
     }
     
